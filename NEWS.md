@@ -1,3 +1,14 @@
+# multinets 0.2.2
+
+* *CRAN Error fix* - Fix CRAN error in https://cran.r-project.org/web/checks/check_results_multinets.html
+
+* Changed all class tests to use inherits() for compatibility with 
+devel release
+
+* *CRAN Note fix* - Fix CRAN Notes in https://cran.r-project.org/web/checks/check_results_multinets.html
+* *bug fix* - correct problems with seting edge colors
+* Change levels' distance in layout_multilevel
+
 # multinets 0.2.1
 
 * *bug fix* - correct package imports in DESCRIPTION file ("igraphdata").
